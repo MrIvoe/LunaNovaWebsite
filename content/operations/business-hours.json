@@ -1,0 +1,48 @@
+{
+  "hoursTitle": "Hours of Operation",
+  "hours": [
+    {
+      "day": "Monday",
+      "shortDay": "Mon",
+      "open": "09:00 am",
+      "close": "05:00 pm"
+    },
+    {
+      "day": "Tuesday",
+      "shortDay": "Tue",
+      "open": "09:00 am",
+      "close": "05:00 pm"
+    },
+    {
+      "day": "Wednesday",
+      "shortDay": "Wed",
+      "open": "09:00 am",
+      "close": "05:00 pm"
+    },
+    {
+      "day": "Thursday",
+      "shortDay": "Thu",
+      "open": "09:00 am",
+      "close": "05:00 pm"
+    },
+    {
+      "day": "Friday",
+      "shortDay": "Fri",
+      "open": "09:00 am",
+      "close": "05:00 pm"
+    },
+    {
+      "day": "Saturday",
+      "shortDay": "Sat",
+      "open": "By Appointment",
+      "close": ""
+    },
+    {
+      "day": "Sunday",
+      "shortDay": "Sun",
+      "open": "Closed",
+      "close": ""
+    }
+  ],
+  "holidays": "Closed on holidays"
+}

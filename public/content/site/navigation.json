@@ -1,0 +1,28 @@
+{
+  "headerCta": {
+    "label": "Book a Call",
+    "href": "/contact"
+  },
+  "items": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "footer": {
+    "quickLinksTitle": "Quick Links",
+    "contactTitle": "Contact"
+  }
+}

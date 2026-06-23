@@ -1,0 +1,73 @@
+{
+  "tagline": "Recording your business's financial life story while you live your life's dreams.",
+  "subtitle": "Premium remote bookkeeping services with precise monthly reporting, tax-ready records, and clear financial guidance for growing small businesses.",
+  "cta": {
+    "text": "Schedule a Free Consultation",
+    "link": "/contact"
+  },
+  "servicesSection": {
+    "titlePrefix": "Bookkeeping",
+    "titleHighlight": "Services",
+    "description": "Professional bookkeeping services in Hesperia, California, serving businesses nationwide.",
+    "items": [
+      "Monthly Bookkeeping",
+      "Bank and Credit Card Reconciliations",
+      "Accounts Payable and Receivable",
+      "Financial Statements",
+      "QuickBooks Setup and Cleanup",
+      "Catch-Up Bookkeeping",
+      "Payroll Support",
+      "Tax-Ready Financial Records"
+    ]
+  },
+  "whyChooseSection": {
+    "titlePrefix": "Why",
+    "titleHighlight": "LunaNova",
+    "description": "An elegant, reliable bookkeeping process that keeps your business organized and decision-ready every month.",
+    "items": [
+      "Financial records you can trust",
+      "Consistent month-end reconciliations",
+      "Actionable financial reporting",
+      "Tax-ready books throughout the year",
+      "Secure and confidential handling of financial data",
+      "Responsive communication and dedicated support",
+      "Flexible services for businesses of all sizes",
+      "Streamlined bookkeeping processes that save time",
+      "Clear insight into cash flow and business performance",
+      "Support that grows alongside your business"
+    ]
+  },
+  "trustSection": {
+    "titlePrefix": "Trusted by Small Business",
+    "titleHighlight": "Owners",
+    "description": "Clarity, consistency, and confidence from business owners who needed dependable financial organization.",
+    "testimonials": [
+      {
+        "quote": "LunaNova helped us get our books organized and finally understand our numbers."
+      },
+      {
+        "quote": "Tax season became significantly easier once our bookkeeping was handled professionally."
+      },
+      {
+        "quote": "Monthly reporting gives us confidence when making business decisions."
+      }
+    ]
+  },
+  "quoteSection": {
+    "quote": "Know your numbers. Grow your business."
+  },
+  "conversionSection": {
+    "titlePrefix": "Ready To Take Control Of Your",
+    "titleHighlight": "Finances?",
+    "description": "Whether you're behind on your bookkeeping, preparing for tax season, or simply need better visibility into your business finances, LunaNova can help.",
+    "checklist": [
+      "Free Consultation",
+      "Remote Services Available",
+      "Personalized Support",
+      "Accurate Monthly Reporting"
+    ],
+    "callText": "Call (760) 977-3064 Today",
+    "buttonText": "Schedule a Free Consultation",
+    "buttonLink": "/contact"
+  }
+}

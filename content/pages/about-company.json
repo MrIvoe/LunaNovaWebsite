@@ -1,0 +1,55 @@
+{
+  "header": {
+    "titlePrefix": "About",
+    "titleHighlight": "LunaNova",
+    "description": "Professional bookkeeping support built around trust, consistency, and clear communication."
+  },
+  "missionTitle": "Our Mission",
+  "mission": "To provide small businesses with dependable bookkeeping support that brings clarity, confidence, and peace of mind.",
+  "storyTitle": "Our Story",
+  "story": "LunaNova Remote Bookkeeping Services was founded to help owners spend less time buried in transactions and more time growing what they built. We pair detail-first bookkeeping with practical collaboration so your financial records support better decisions.",
+  "valuesSectionTitlePrefix": "Our",
+  "valuesSectionTitleHighlight": "Values",
+  "values": [
+    "Accuracy in every detail",
+    "Transparent communication",
+    "Reliable monthly processes",
+    "Respect for your goals"
+  ],
+  "teamSectionTitlePrefix": "Meet the",
+  "teamSectionTitleHighlight": "Team",
+  "team": [
+    {
+      "id": "founder",
+      "name": "LunaNova Team",
+      "title": "Founder & Lead Bookkeeper",
+      "bio": "We help business owners create cleaner books, stronger financial visibility, and smoother month-end operations.",
+      "image": "team-default"
+    }
+  ],
+  "testimonialsSectionTitlePrefix": "What Clients",
+  "testimonialsSectionTitleHighlight": "Say",
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "author": "Small Business Owner",
+      "company": "Service Business",
+      "text": "LunaNova helped us get our books organized and finally understand our numbers.",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-2",
+      "author": "Founder",
+      "company": "Local Contractor",
+      "text": "Tax season became significantly easier once our bookkeeping was handled professionally.",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-3",
+      "author": "Owner",
+      "company": "Growing Agency",
+      "text": "Monthly reporting gives us confidence when making business decisions.",
+      "rating": 5
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "businessName": "LunaNova Remote Bookkeeping Services LLC",
+  "address": "Hesperia, California, United States",
+  "phone": "(760) 977-3064",
+  "email": "lunanovabookkeeping@gmail.com",
+  "form": {
+    "title": "We Look Forward to Helping You",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us about your bookkeeping needs...",
+    "submitIdle": "Send Message",
+    "submitLoading": "Sending...",
+    "successMessage": "Thank you. We will be in touch soon.",
+    "errorMessage": "We could not send your message. Please try again or email us directly.",
+    "fallbackHint": "This form opens your email app when a form endpoint is not configured."
+  },
+  "preFormCta": {
+    "titlePrefix": "Ready To Take Control Of Your",
+    "titleHighlight": "Finances?",
+    "description": "Whether you're behind on your bookkeeping, preparing for tax season, or simply need better visibility into your business finances, LunaNova can help.",
+    "checklist": [
+      "Free Consultation",
+      "Remote Services Available",
+      "Personalized Support",
+      "Accurate Monthly Reporting"
+    ],
+    "callText": "Call (760) 977-3064 Today"
+  },
+  "formEndpoint": ""
+}

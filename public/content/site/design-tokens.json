@@ -1,0 +1,15 @@
+{
+  "colors": {
+    "background": "#0f172a",
+    "surface": "#111827",
+    "surfaceAlt": "#1f2937",
+    "brand": "#c5a365",
+    "brandStrong": "#e8bc72",
+    "textPrimary": "#f9fafb",
+    "textMuted": "#cbd5e1",
+    "border": "rgba(197, 163, 101, 0.35)"
+  },
+  "gradients": {
+    "hero": "linear-gradient(180deg, rgba(10,16,30,0.75), rgba(8,12,24,0.95))"
+  }
+}

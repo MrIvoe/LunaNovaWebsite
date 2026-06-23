@@ -1,0 +1,19 @@
+{
+  "logo": {
+    "src": "https://img1.wsimg.com/isteam/ip/03674b94-16b3-4855-96bd-087a1a63c143/fulllogo_transparent.png/:/rs=h:200,cg:true,m/qt=q:95",
+    "alt": "LunaNova Bookkeeping logo"
+  },
+  "hero": {
+    "videoUrl": "https://websites.godaddy.com/categories/v4/videos/raw/video/uA41GmyyG8IMaxXdb",
+    "poster": "https://img1.wsimg.com/isteam/videos/uA41GmyyG8IMaxXdb"
+  },
+  "team": {
+    "defaultImage": "https://img1.wsimg.com/isteam/ip/03674b94-16b3-4855-96bd-087a1a63c143/fulllogo_transparent.png/:/rs=h:400,cg:true,m/qt=q:95"
+  },
+  "serviceIcons": {
+    "ledger": "https://img1.wsimg.com/isteam/ip/03674b94-16b3-4855-96bd-087a1a63c143/fulllogo_transparent.png/:/rs=w:96,h:96,cg:true,m/qt=q:80",
+    "payroll": "https://img1.wsimg.com/isteam/ip/03674b94-16b3-4855-96bd-087a1a63c143/fulllogo_transparent.png/:/rs=w:96,h:96,cg:true,m/qt=q:80",
+    "cleanup": "https://img1.wsimg.com/isteam/ip/03674b94-16b3-4855-96bd-087a1a63c143/fulllogo_transparent.png/:/rs=w:96,h:96,cg:true,m/qt=q:80",
+    "insights": "https://img1.wsimg.com/isteam/ip/03674b94-16b3-4855-96bd-087a1a63c143/fulllogo_transparent.png/:/rs=w:96,h:96,cg:true,m/qt=q:80"
+  }
+}

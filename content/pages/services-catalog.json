@@ -1,0 +1,140 @@
+{
+  "header": {
+    "titlePrefix": "Bookkeeping",
+    "titleHighlight": "Services",
+    "description": "Monthly bookkeeping services for small businesses, including remote bookkeeping support in California and nationwide."
+  },
+  "serviceHighlights": {
+    "titlePrefix": "Bookkeeping",
+    "titleHighlight": "Services",
+    "description": "Professional bookkeeping services in Hesperia, California, serving businesses nationwide.",
+    "items": [
+      "Monthly Bookkeeping",
+      "Bank and Credit Card Reconciliations",
+      "Accounts Payable and Receivable",
+      "Financial Statements",
+      "QuickBooks Setup and Cleanup",
+      "Catch-Up Bookkeeping",
+      "Payroll Support",
+      "Tax-Ready Financial Records"
+    ]
+  },
+  "services": [
+    {
+      "id": "monthly-bookkeeping",
+      "title": "Monthly Bookkeeping",
+      "description": "Consistent categorization and monthly close processes to keep records current and accurate.",
+      "features": [
+        "Transaction categorization",
+        "Monthly close review",
+        "General ledger maintenance"
+      ]
+    },
+    {
+      "id": "reconciliations",
+      "title": "Bank & Credit Card Reconciliations",
+      "description": "Reconciliations that catch discrepancies early and keep your books clean and reliable.",
+      "features": [
+        "Bank account reconciliation",
+        "Credit card reconciliation",
+        "Discrepancy resolution support"
+      ]
+    },
+    {
+      "id": "ap-ar",
+      "title": "Accounts Payable & Receivable",
+      "description": "Clear tracking of money in and money out to improve cash flow visibility.",
+      "features": [
+        "Invoice tracking",
+        "Payment tracking",
+        "A/R and A/P overview"
+      ]
+    },
+    {
+      "id": "financial-statements",
+      "title": "Financial Statements",
+      "description": "Action-ready reporting to help you understand business performance month to month.",
+      "features": [
+        "Profit and loss statements",
+        "Balance sheet reports",
+        "Cash flow summaries"
+      ]
+    },
+    {
+      "id": "quickbooks-setup",
+      "title": "QuickBooks Setup & Cleanup",
+      "description": "QuickBooks bookkeeper support for setup, optimization, and account cleanup.",
+      "features": [
+        "Chart of accounts cleanup",
+        "Workflow setup",
+        "Historical correction support"
+      ]
+    },
+    {
+      "id": "catch-up-bookkeeping",
+      "title": "Catch-Up Bookkeeping",
+      "description": "Behind on your books? We help bring past months up to date quickly and accurately.",
+      "features": [
+        "Historical transaction cleanup",
+        "Past-month reconciliations",
+        "Backlog reduction plan"
+      ]
+    },
+    {
+      "id": "payroll-support",
+      "title": "Payroll Support",
+      "description": "Practical payroll support to keep your process consistent and tax-ready.",
+      "features": [
+        "Payroll records organization",
+        "Withholding checks",
+        "Year-end payroll readiness"
+      ]
+    },
+    {
+      "id": "tax-ready-records",
+      "title": "Tax-Ready Financial Records",
+      "description": "Organized books all year so tax season is smooth, predictable, and low stress.",
+      "features": [
+        "Year-round tax readiness",
+        "Clean supporting documentation",
+        "Coordination with your tax preparer"
+      ]
+    }
+  ],
+  "benefits": {
+    "titlePrefix": "Why Work With",
+    "titleHighlight": "LunaNova",
+    "items": [
+      {
+        "title": "Personalized Attention",
+        "description": "Your books receive focused, detail-oriented care aligned to your workflow."
+      },
+      {
+        "title": "Time Back for Growth",
+        "description": "Spend less time in spreadsheets and more time serving clients and scaling."
+      },
+      {
+        "title": "Professional Reliability",
+        "description": "Consistent monthly processes reduce stress and keep your records dependable."
+      },
+      {
+        "title": "Tax-Ready Records",
+        "description": "Organized books make tax preparation smoother for you and your tax preparer."
+      },
+      {
+        "title": "Remote Convenience",
+        "description": "Collaborate from anywhere with secure, digital-first bookkeeping support."
+      },
+      {
+        "title": "Support You Can Trust",
+        "description": "Get responsive communication and ongoing guidance as your business evolves."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Need a Bookkeeper You Can Count On?",
+    "description": "Book a free consultation to discuss your bookkeeping needs anywhere in the United States",
+    "buttonText": "Book a Consultation",
+    "buttonLink": "/contact"
+  }
+}
